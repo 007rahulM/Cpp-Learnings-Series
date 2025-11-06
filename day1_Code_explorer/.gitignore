@@ -1,0 +1,27 @@
+# C++ build artifacts
+*.exe
+*.obj
+*.o
+*.s
+*.asm
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tmp
+
+# Visual Studio / MSVC
+*.vcxproj*
+*.sln
+*.vs/
+*.user
+*.db
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# OS files
+Thumbs.db
+.DS_Store
