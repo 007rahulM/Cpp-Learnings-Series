@@ -123,19 +123,14 @@ You learn:
 
 -------------------------------------------------------------
 
-🧭 NEXT STEP
-Day 2 — Memory Detective
-Visualize the difference between stack and heap memory and see how variables live and die in real time.
-
--------------------------------------------------------------
-
 🏷️ TAGS
 C++, Compiler Visualization, MSVC, Beginner Friendly, Learning Project
 
 -------------------------------------------------------------
 
 🧑‍💻 AUTHOR
-Rahul M
+Rahul M 
+
 Learning Systems Programming & AI Development
 Day 1 of Programming Mastery Journey
 
