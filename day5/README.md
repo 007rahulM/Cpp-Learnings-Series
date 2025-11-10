@@ -1,6 +1,6 @@
-==========================================================
+
 🔥  DAY 5 — COMPETITIVE PROGRAMMING & ALGORITHMIC LOGIC
-==========================================================
+
 
 Author: Rahul M  
 Project: CodeArena — Algorithm Battle Simulator  
@@ -126,8 +126,7 @@ but about doing it within minimal time and space.
 💡  SAMPLE OUTPUT SNIPPET
 ----------------------------------------------------------
 ===========================================
-🔥  Rahul's CodeArena — Algorithm Battles 🔥
-===========================================
+🔥  CodeArena — Algorithm Battles 🔥
 
 1. Binary Search Battle  
 2. Frequency Counter Battle  
